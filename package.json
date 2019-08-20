@@ -1,0 +1,17 @@
+{
+  "name": "dashbi-widget-show-text",
+  "version": "0.1.0",
+  "description": "Simple widget that shows text",
+  "main": "index.vue",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dashbi",
+    "dashbi-widget",
+    "show-text"
+  ],
+  "author": "Marek Sierociński <mareksierocinski@gmail.com>",
+  "license": "ISC",
+  "dependencies": {}
+}
